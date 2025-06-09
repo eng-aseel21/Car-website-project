@@ -45,7 +45,7 @@
     margin: 15px 10px;
     font-size: 16px;
     border-radius: 5px;
-    box-shadow: 4px 4px 10px rgba(252, 252, 252, 0.973);
+    box-shadow: 0px 0px 3px rgba(252, 252, 252, 0.973);
     transition: background-color 0.3s ease;
   }
   
