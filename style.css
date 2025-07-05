@@ -107,8 +107,6 @@ h1.navbar-brand span {
   border-radius: 10px;
   transition: all 0.3s ease;
 }
-
-/* شاشات متوسطة */
 @media (max-width: 768px) {
   .text-content h1 {
     font-size: 30px;
@@ -130,8 +128,6 @@ h1.navbar-brand span {
     max-height: 420px;
   }
 }
-
-/* شاشات صغيرة */
 @media (max-width: 600px) {
   .desc {
     flex-wrap: wrap !important;
@@ -177,8 +173,6 @@ h1.navbar-brand span {
     max-height: 500px;
   }
 }
-
-/* شاشات صغيرة جداً */
 @media (max-width: 400px) {
   .desc {
     flex-direction: column !important;
@@ -221,8 +215,6 @@ h1.navbar-brand span {
     max-height: 520px;
   }
 }
-
-/* أصغر الشاشات */
 @media (max-width: 350px) {
   .custom-btn {
     font-size: 11px;
