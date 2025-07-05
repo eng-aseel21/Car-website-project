@@ -22,5 +22,4 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Car-Website-Project.git
- 
+   git clone https://eng-aseel21.github.io/Car-website-project/
